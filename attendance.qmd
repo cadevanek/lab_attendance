@@ -1,5 +1,5 @@
 ---
-title: "Lab Attendance"
+title: "Lab-Attendance"
 format: html
 name: Cade Vanek
 editor: visual
