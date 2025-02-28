@@ -1,0 +1,11 @@
+---
+title: "Untitled"
+format: html
+name: Cade Vanek
+editor: visual
+
+execute: 
+  echo: true
+---
+
+## I have learned how to publish a website and work with large sets of data.
